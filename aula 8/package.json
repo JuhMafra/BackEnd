@@ -1,0 +1,19 @@
+{
+  "name": "aula-8",
+  "version": "1.0.0",
+  "description": "> ### 📦 Dependências da Aula > Esta aula integra o Swagger UI e proteção com autenticação básica na API Express: > ```powershell > npm init -y > npm install express swagger-ui-express swagger-jsdoc express-basic-auth > ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-basic-auth": "^1.2.1",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
